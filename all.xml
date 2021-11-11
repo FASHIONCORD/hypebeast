@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 11 Nov 2021 09:21:57 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Nov 2021 10:24:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1480,6 +1480,14 @@
             <enclosure url="https://post-phinf.pstatic.net/MjAyMDEyMDNfMjIz/MDAxNjA2OTg5MjUxNTk2.QhSCyFUXrW3zPCPE4kYSHSNK-mxYpI5kMovlGqA65UUg.Y3wAjGPW-ceCKtHzN-asPo7M7n2TCEmFem2JX7a_vw0g.JPEG/IqPRrCu0OqNxIIl4T8LjONDvCnmI.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[‘음레코드’ 전우치가 추천하는 여수 가볼 만한 곳 7 (네이버 포스트 ─ 하입비스트 ─ 라이프스타일)]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=32716552&amp;memberNo=37600247&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=32716552&amp;memberNo=37600247&amp;navigationType=push</guid>
+            <pubDate>Thu, 11 Nov 2021 10:23:57 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMTExMDlfMjIx/MDAxNjM2NDM0NTMxNDM1.V0dsOIPF6QUu2ysDj2Xzx_g0CvVjApyQ6syEU2pz7PEg.lyDhE6F3o3br4w6pestkCsr2S50jS71DGLFGkdO9FkYg.JPEG/I7Ah0ySUl4hS_iTdm-7UASGKaMl0.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Essentials: Mr. K (네이버 포스트 ─ 하입비스트 ─ 라이프스타일)]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=32716464&amp;memberNo=37600247&amp;navigationType=push</link>
             <guid>https://post.naver.com/viewer/postView.naver?volumeNo=32716464&amp;memberNo=37600247&amp;navigationType=push</guid>
@@ -1630,14 +1638,6 @@
             <pubDate>Sat, 02 Oct 2021 00:57:25 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMDAxMjBfNTEg/MDAxNTc5NDc0OTE5ODYw.fooxbdUSV8X9XsQxbPwygPsPf5lePIePoDieIoAvbW0g.rGWEAT1Yqu9fjQWQ3L0gW8rassZ-mpixwqBTGnUAYdEg.JPEG/Ix6F8_n-BR0jS87pSBynCC2lHQh4.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Shop Visit: 더콘란샵 (네이버 포스트 ─ 하입비스트 ─ 라이프스타일)]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=27247470&amp;memberNo=37600247&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=27247470&amp;memberNo=37600247&amp;navigationType=push</guid>
-            <pubDate>Sat, 02 Oct 2021 00:57:25 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMDAxMDlfNjYg/MDAxNTc4NTYzMDE2MzEz.BeeWdBt1l3ZZ_XIvB_Be-blMk5zjvOuwJ9hYZk4N9oUg.bb2UJFZelbO7UKLXGJ72A0iCentgmQe_YLiwUm6hKKUg.JPEG/IyKbBPJ00T1QBfl13aBEkZUTySe4.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[골프 입문자라면 꼭 알아둬야 할 '골프 가이드' A to Z (네이버 포스트 ─ 하입비스트 ─ 스포츠)]]></title>
