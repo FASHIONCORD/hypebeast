@@ -9,6 +9,7 @@ titleSelector = "div.spot_post_name span.ell"
 linkSelector = "a[href]"
 imageSelector = "img"
 contentSelector = "span.writer_name"
+waitUntil = "networkidle"
 
 [naverpost_hypebeast_footwear]
 title = "네이버 포스트 ─ 하입비스트 ─ 신발"
@@ -18,6 +19,7 @@ titleSelector = "div.spot_post_name span.ell"
 linkSelector = "a[href]"
 imageSelector = "img"
 contentSelector = "span.writer_name"
+waitUntil = "networkidle"
 
 [naverpost_hypebeast_music]
 title = "네이버 포스트 ─ 하입비스트 ─ 음악"
@@ -27,6 +29,7 @@ titleSelector = "div.spot_post_name span.ell"
 linkSelector = "a[href]"
 imageSelector = "img"
 contentSelector = "span.writer_name"
+waitUntil = "networkidle"
 
 [naverpost_hypebeast_art]
 title = "네이버 포스트 ─ 하입비스트 ─ 미술"
@@ -36,6 +39,7 @@ titleSelector = "div.spot_post_name span.ell"
 linkSelector = "a[href]"
 imageSelector = "img"
 contentSelector = "span.writer_name"
+waitUntil = "networkidle"
 
 [naverpost_hypebeast_tech]
 title = "네이버 포스트 ─ 하입비스트 ─ 전자"
@@ -45,6 +49,7 @@ titleSelector = "div.spot_post_name span.ell"
 linkSelector = "a[href]"
 imageSelector = "img"
 contentSelector = "span.writer_name"
+waitUntil = "networkidle"
 
 [naverpost_hypebeast_automotive]
 title = "네이버 포스트 ─ 하입비스트 ─ 자동차"
@@ -54,6 +59,7 @@ titleSelector = "div.spot_post_name span.ell"
 linkSelector = "a[href]"
 imageSelector = "img"
 contentSelector = "span.writer_name"
+waitUntil = "networkidle"
 
 [naverpost_hypebeast_entertainment]
 title = "네이버 포스트 ─ 하입비스트 ─ 엔터테인먼트"
@@ -63,6 +69,7 @@ titleSelector = "div.spot_post_name span.ell"
 linkSelector = "a[href]"
 imageSelector = "img"
 contentSelector = "span.writer_name"
+waitUntil = "networkidle"
 
 [naverpost_hypebeast_design]
 title = "네이버 포스트 ─ 하입비스트 ─ 디자인"
@@ -81,6 +88,7 @@ titleSelector = "div.spot_post_name span.ell"
 linkSelector = "a[href]"
 imageSelector = "img"
 contentSelector = "span.writer_name"
+waitUntil = "networkidle"
 
 [naverpost_hypebeast_gaming]
 title = "네이버 포스트 ─ 하입비스트 ─ 게임"
@@ -90,6 +98,7 @@ titleSelector = "div.spot_post_name span.ell"
 linkSelector = "a[href]"
 imageSelector = "img"
 contentSelector = "span.writer_name"
+waitUntil = "networkidle"
 
 [naverpost_hypebeast_travel]
 title = "네이버 포스트 ─ 하입비스트 ─ 라이프스타일"
@@ -99,6 +108,7 @@ titleSelector = "div.spot_post_name span.ell"
 linkSelector = "a[href]"
 imageSelector = "img"
 contentSelector = "span.writer_name"
+waitUntil = "networkidle"
 
 [naverpost_hypebeast_sports]
 title = "네이버 포스트 ─ 하입비스트 ─ 스포츠"
@@ -108,3 +118,4 @@ titleSelector = "div.spot_post_name span.ell"
 linkSelector = "a[href]"
 imageSelector = "img"
 contentSelector = "span.writer_name"
+waitUntil = "networkidle"
