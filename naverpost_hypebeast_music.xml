@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 하입비스트 ─ 음악</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 21 Dec 2022 03:15:17 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 21 Dec 2022 09:18:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[RM 인터뷰: 스물아홉 김남준, 들꽃을 터뜨리다]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=35000969&amp;memberNo=37600247&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=35000969&amp;memberNo=37600247&amp;navigationType=push</guid>
+            <pubDate>Wed, 21 Dec 2022 09:17:04 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjEyMjFfMzUg/MDAxNjcxNjExNjUzMzI4.BkxDmX7Mjv-t35fi6-Jr_DOkJuW_mF0FDoa_0WK7hDkg.v0vZiUI9B-oW-szySo15kAsAwR-RSqKgxyVA5-yuBXIg.JPEG/IpZ0hFdefmuU8-i4nZJhwlumTtNI.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[최백호 인터뷰: 여러분의 낭만은 오늘도 안녕하신지]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=34985738&amp;memberNo=37600247&amp;navigationType=push</link>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 17 Nov 2022 03:41:53 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjAzMjFfMTAx/MDAxNjQ3ODUwMzc5NDc3.o8v_4wbCevrEgOUjyRBFJowmBVyEM2Cw7j2FSRxV68Qg.T5rjcf0fnVYSlIFCWAfUdRjeoy_XzcaOaugGQULJ44Qg.JPEG/IgcTrXcTNLdJKBVOEjAtpU5lXFXM.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[라드 뮤지엄 인터뷰: 4년 만에 문을 연 얼터너티브 박물관]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=33468620&amp;memberNo=37600247&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=33468620&amp;memberNo=37600247&amp;navigationType=push</guid>
-            <pubDate>Thu, 17 Nov 2022 03:41:53 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMjAzMTdfNDYg/MDAxNjQ3NTA4Njc4NDEw.ZiOVJk7KepS0gxY94FgB1wSdefOoGc4sXag2L2C3pzkg.0mE_-OLS0g8LXrQh_uIYnNbqqSISgtzjO_r7jsEhl-4g.JPEG/IBo0MDbGgUZa-LQKv8zaCix-MOow.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
