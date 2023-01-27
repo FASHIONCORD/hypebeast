@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 하입비스트 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 27 Jan 2023 03:15:47 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 Jan 2023 09:18:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Invite Only: 다나카가 소개하는 첫 번째 콘서트 굿즈 팝업]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=35268103&amp;memberNo=37600247&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=35268103&amp;memberNo=37600247&amp;navigationType=push</guid>
+            <pubDate>Fri, 27 Jan 2023 09:16:59 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzAxMjdfMjkg/MDAxNjc0ODAyNDQwOTM0.MMaUfj9LB-WBiJUtznDKz_yXpqnFAAKcROq-PagPWCIg.ellz_3eW3oek0leDQlKZhPmTDozqN70VdfcV_1Fj5tcg.JPEG/IxKNSpnVHD8yKmZhJoI3YUYnIYuY.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[마침내 문을 연, 혜인서 서울 스토어 들여다보기]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=35243870&amp;memberNo=37600247&amp;navigationType=push</link>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 17 Nov 2022 03:41:40 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjA4MDNfMTEy/MDAxNjU5NTIwNTU0OTc2.1b24rB-0pJPCIEen1wInFy23qA6TdDVa9LVYB9XU1j0g.cNumdLMXFOxGeVC8Ccq2oNHZqjFJokRP4aW19xnyGIYg.JPEG/I38xaCtdQhbBMcHoBP-5PhfIdnN4.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Wrist Check: 크리스 에반스 & IWC 파일럿 워치 크로노그래프]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=34173728&amp;memberNo=37600247&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=34173728&amp;memberNo=37600247&amp;navigationType=push</guid>
-            <pubDate>Thu, 17 Nov 2022 03:41:40 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA3MjFfMTIg/MDAxNjU4Mzk1ODE1Njcz.FMii3kMxXEEk6XOL42TBBpvxgILIywG-NTezeEJbbA4g.EKWF_F6nZZ-Ro8XdU6jX-CaEuhjasOxYV099uHbRIxEg.JPEG/IFa5XrqvsPRwK8Mc-xIolW9dssH8.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
