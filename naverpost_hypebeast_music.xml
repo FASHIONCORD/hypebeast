@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 하입비스트 ─ 음악</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 Feb 2023 15:19:24 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Feb 2023 03:19:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[#Streetsnaps: 존 캐롤 커비]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=35334137&amp;memberNo=37600247&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=35334137&amp;memberNo=37600247&amp;navigationType=push</guid>
+            <pubDate>Fri, 03 Feb 2023 03:18:02 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzAyMDNfMjQg/MDAxNjc1MzkyOTIyNTMy.8t2SaDod_9TpLPiTsXDYiYCrl8ZqxcbHAmkuOPxnCbQg.JwZ1wdCNmyQFsl9ZZ-MNGfTziJJmCMuMlmW-jR8Ch8Mg.JPEG/IgimmXdM02wpqB_UteR7JmopTEaw.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[프로듀서, A&R 등 음악 관계자가 꼽은 ‘2023년 주목할 아티스트’ 10]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=35268277&amp;memberNo=37600247&amp;navigationType=push</link>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 17 Nov 2022 03:41:53 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjA0MTJfMTA2/MDAxNjQ5NzUyMDc2OTU1.cP9jaq5kh48un3jhzqv9cCRSRBxfF-oDuC7pxw1ixGsg.c4bbOmfEqcm-Tp6Zb8IOYrIe6_uN5SJ4tCyIM9Ci6_kg.JPEG/IuBTjAI6k0DgTzTH6Xisf1RGpdoo.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[하이어뮤직 신인 아티스트 '릴 모쉬핏' 데뷔 앨범 발표 인터뷰]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=33583746&amp;memberNo=37600247&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=33583746&amp;memberNo=37600247&amp;navigationType=push</guid>
-            <pubDate>Thu, 17 Nov 2022 03:41:53 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA0MDZfMjQ0/MDAxNjQ5MjM2NzEwNjY5.2nhzwDBI_74T_oBR4QEchO64nCMzGkx7_sjBj5Upj58g.WCKXxjYjDdQ64w_tiI53_lZXPuN8d8-2ZZhYPL013zkg.JPEG/Itx9NqlSJo_mzmlB50zPe4EQXOpk.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
