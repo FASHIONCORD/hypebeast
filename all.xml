@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Mar 2023 09:14:57 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Mar 2023 15:15:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -328,6 +328,14 @@
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjA1MDNfMjE1/MDAxNjUxNTYwMzI0MDI5.E1XESOpJqquafDeXXxLWMLMM-AHxx5gln_4Ow_KDyx4g.A79zdm5pH1iyxqu3DwkB6QkYgaeKQMRfP3Z_xYyCO38g.JPEG/IAFXMgxK3hYgq6A1aP0Q_mRqOTRo.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[#Streetsnaps: 왝 (네이버 포스트 ─ 하입비스트 ─ 음악)]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=35696017&amp;memberNo=37600247&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=35696017&amp;memberNo=37600247&amp;navigationType=push</guid>
+            <pubDate>Tue, 28 Mar 2023 15:14:36 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzAzMjhfNDUg/MDAxNjc5OTk1NjQwMTk2.q9Sfdl4hpSTxjNoavvL5snRHfenYJMol9KWvj0yvm3kg.cPsyT7RZCJA3MxlDqWErL6CEo33DsIMYP3etq5-IX4gg.JPEG/INKwSZBN0phGkVDbFNkKApiqlJnw.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[#Streetsnaps: 페기 구 (네이버 포스트 ─ 하입비스트 ─ 음악)]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=35619875&amp;memberNo=37600247&amp;navigationType=push</link>
             <guid>https://post.naver.com/viewer/postView.naver?volumeNo=35619875&amp;memberNo=37600247&amp;navigationType=push</guid>
@@ -478,14 +486,6 @@
             <pubDate>Thu, 17 Nov 2022 03:41:53 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjA3MjBfNDYg/MDAxNjU4MzAzNTMzOTM3.KMVBQ_Nh4ka32mbOWb7mc1lyL5OM8H33IP9t6he09v8g.4Gxola8U86i45CwBqADB0bQN1IiULSbpfheq8Df7OEsg.JPEG/IjT0byjAXFc-0gNn5T6bssV0Nunw.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[1300 인터뷰: 시드니에서 힙합하는 다섯 친구들 (네이버 포스트 ─ 하입비스트 ─ 음악)]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=34120659&amp;memberNo=37600247&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=34120659&amp;memberNo=37600247&amp;navigationType=push</guid>
-            <pubDate>Thu, 17 Nov 2022 03:41:53 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA3MTJfOTgg/MDAxNjU3NjE5NjE1MjE5.B9CdMtuNoL9HSVO32kFbEce1OCaq04ngk_rdEcl0WIMg.kfzOBjkwwf3ewXd5gbUQKBo7BJ1hBS7_P1Wg1XmGHHAg.JPEG/ICZOQbjyz0juFNz6Ji6-AdHR8VI8.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[타이럴 윈스턴 인터뷰: 어쩌면 세상에서 가장 유명한 쓰레기 수집가 (네이버 포스트 ─ 하입비스트 ─ 미술)]]></title>
