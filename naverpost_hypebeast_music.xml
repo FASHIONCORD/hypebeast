@@ -4,7 +4,7 @@
         <title>네이버 포스트 ─ 하입비스트 ─ 음악</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 15 May 2023 03:14:20 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 May 2023 09:28:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -165,7 +165,7 @@
             <guid>https://post.naver.com/viewer/postView.naver?volumeNo=34316187&amp;memberNo=37600247&amp;navigationType=push</guid>
             <pubDate>Thu, 17 Nov 2022 03:41:53 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA4MTZfNiAg/MDAxNjYwNjM3OTUxNDc5.1jhZWw8OzwyIkihiOdrEo_sYLZHcdOFP1BwhDvzbHQwg.am6edwOPg9VuFZGFnz4OOY3tocp0CnKtjQ9KQWcTDwEg.JPEG/ILrzX26fn3oS0XSBKW_BOzKKT1SU.jpg?type=fb500_500" length="0" type="image/jpg"/>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMDEyMTZfMjU3/MDAxNjA4MDg5NDc5NTI3.3L8PNHRhIKZv8SUl-WQd0fFUJc39Zu5McVIuQzOY2Ysg.wUeapgHt5W3PqtPkitS2GBLLBa1XYmxukzRQiXWrOgog.JPEG/post_9121271427993247926.jpg?type=f40_40" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
