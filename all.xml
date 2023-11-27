@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 Nov 2023 09:14:29 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Nov 2023 15:14:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -653,7 +653,7 @@
             <guid>https://post.naver.com/viewer/postView.naver?volumeNo=36931759&amp;memberNo=37600247&amp;navigationType=push</guid>
             <pubDate>Thu, 23 Nov 2023 15:13:09 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMDEyMTZfMjU3/MDAxNjA4MDg5NDc5NTI3.3L8PNHRhIKZv8SUl-WQd0fFUJc39Zu5McVIuQzOY2Ysg.wUeapgHt5W3PqtPkitS2GBLLBa1XYmxukzRQiXWrOgog.JPEG/post_9121271427993247926.jpg?type=f40_40" length="0" type="image/jpg"/>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzExMjdfOTkg/MDAxNzAxMDc4NTMyNTcx.4O_WquwK0kVOmBR8rIKZowqQTFHq0ANht6UgZG9WoMMg.xZgowsXIsEYokSB6PelL19rYAqPpRH2hx-tS4DaTZWYg.JPEG/IzGsk1L3R8adZeOjeNcxOxweziAs.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<타임> 선정 ‘2023년 최고의 발명품’ 목록에 오른 한국 제품은? (네이버 포스트 ─ 하입비스트 ─ 전자)]]></title>
@@ -968,12 +968,20 @@
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjA2MjBfMjYx/MDAxNjU1NzEwODE1OTIy.XOQJ3QIWn33nAZ6-ItLrZ1aFWhlDLOLw7aMPP6s1DuEg.KsSdmy2e8cV4CF5ZTDR9MmVLYVKQ0kqexEQLn9WY1WMg.JPEG/IhYGHN-enYQu8WOerDI2-F2OFKbs.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[‘듄: 파트 2’, 국내 개봉 시기 확정 (네이버 포스트 ─ 하입비스트 ─ 엔터테인먼트)]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=36949979&amp;memberNo=37600247&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=36949979&amp;memberNo=37600247&amp;navigationType=push</guid>
+            <pubDate>Mon, 27 Nov 2023 15:13:38 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzExMjdfMTY5/MDAxNzAxMDc2NTk2OTY4.r6Ao1dkdfpGBU1hTmEHKZct9WWY0KjP6zE-y_ngZ6Zgg.g6QYiKksmaJXK-1LHX9GeQx94HXmpX8PZXPkszgtcnEg.JPEG/IrZbvYcUKY7TrEr7VfjpnhtZMEgg.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[‘오징어 게임: 더 챌린지’ 참가자들이 제작진을 고소했다 (네이버 포스트 ─ 하입비스트 ─ 엔터테인먼트)]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=36937262&amp;memberNo=37600247&amp;navigationType=push</link>
             <guid>https://post.naver.com/viewer/postView.naver?volumeNo=36937262&amp;memberNo=37600247&amp;navigationType=push</guid>
             <pubDate>Fri, 24 Nov 2023 15:12:54 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMDEyMTZfMjU3/MDAxNjA4MDg5NDc5NTI3.3L8PNHRhIKZv8SUl-WQd0fFUJc39Zu5McVIuQzOY2Ysg.wUeapgHt5W3PqtPkitS2GBLLBa1XYmxukzRQiXWrOgog.JPEG/post_9121271427993247926.jpg?type=f40_40" length="0" type="image/jpg"/>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzExMjdfMTE3/MDAxNzAxMDc4NjY1ODA3.85KEvOWYbMYFPuaSQO6EFMLeqJxVPPQr5EnJHdw31gQg.lAjdqVcaEf8YA9pY3vOeIYCno0JVFjTldPtivFOvKUAg.JPEG/IAYv4IS6sLQn_CnydACQp2cHU9xg.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[데이비드 핀처가 ‘파이트 클럽’을 다시 보고 싶지 않은 이유는? (네이버 포스트 ─ 하입비스트 ─ 엔터테인먼트)]]></title>
@@ -1118,14 +1126,6 @@
             <pubDate>Tue, 06 Dec 2022 09:13:56 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjEyMDZfMTc1/MDAxNjcwMzE1MjMwODkz.wB3m1VrXCXlyu7XW-XzxxH14rUcb-mGAfEaNFZ_fzY0g.gVqa9HNIx8w6q-Pi75PQzTb-tIaKL0G6wD1wa4LrN0cg.JPEG/IakjfSmd8YX7wT9hZkfxO0xpdIDs.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[MCU 역대 쿠키 영상 49개 중 '최고의 쿠키' 순위는? (네이버 포스트 ─ 하입비스트 ─ 엔터테인먼트)]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=34532791&amp;memberNo=37600247&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=34532791&amp;memberNo=37600247&amp;navigationType=push</guid>
-            <pubDate>Thu, 17 Nov 2022 03:42:21 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA5MjZfMTk1/MDAxNjY0MTgzODY0NTY1.8TKXx3OfpBQSyPxp4esdRczAWV33nQt_6tLVDRM2Z2Ag.XEpHtfhGktFH3_dJqhuxwQcBm32fyqsNLutr6Wke55Qg.JPEG/Iq4zzSfPzLFxULV0k2-77pO0AmAs.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[칸예 웨스트, 마이애미 저택을 창문과 전기가 없는 방공호로 개조하려 했다? (네이버 포스트 ─ 하입비스트 ─ 디자인)]]></title>
@@ -1501,7 +1501,7 @@
             <guid>https://post.naver.com/viewer/postView.naver?volumeNo=36931737&amp;memberNo=37600247&amp;navigationType=push</guid>
             <pubDate>Thu, 23 Nov 2023 15:13:42 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMDEyMTZfMjU3/MDAxNjA4MDg5NDc5NTI3.3L8PNHRhIKZv8SUl-WQd0fFUJc39Zu5McVIuQzOY2Ysg.wUeapgHt5W3PqtPkitS2GBLLBa1XYmxukzRQiXWrOgog.JPEG/post_9121271427993247926.jpg?type=f40_40" length="0" type="image/jpg"/>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzExMjdfMjM3/MDAxNzAxMDc4NDIwNzU4.aRVq5tyYeTs43CzNorjs_I_pvj_DKz6xUmIxo4RNhWgg.Zz_lYqUBhoeypS82EVfBw5jrSMv4UJP0y7LZ152et8Yg.JPEG/Id37hplb-9GCvcJawTrhCp8fK4Ko.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[지구온난화가 정신질환자 사망률 상승에 기여한다는 사실이 밝혀졌다 (네이버 포스트 ─ 하입비스트 ─ 라이프스타일)]]></title>
@@ -1661,7 +1661,7 @@
             <guid>https://post.naver.com/viewer/postView.naver?volumeNo=36937257&amp;memberNo=37600247&amp;navigationType=push</guid>
             <pubDate>Fri, 24 Nov 2023 15:13:18 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMDEyMTZfMjU3/MDAxNjA4MDg5NDc5NTI3.3L8PNHRhIKZv8SUl-WQd0fFUJc39Zu5McVIuQzOY2Ysg.wUeapgHt5W3PqtPkitS2GBLLBa1XYmxukzRQiXWrOgog.JPEG/post_9121271427993247926.jpg?type=f40_40" length="0" type="image/jpg"/>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzExMjdfMTIg/MDAxNzAxMDc4NjAxNzky.aTAvr9DyLB9KdZGDWuLGdeZAZyPrsMXIU7d551iD764g.c5jc-4N_UV1z5hWMvCBOFQmQQE_deQGgI3UnJaIdEMUg.JPEG/I22vq3ZNN4c2fFfGzvETLCK1StEg.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이강인 ‘죽음의 조’ 당첨, 2023-24시즌 ‘UEFA 챔피언스리그’ 조 추첨 결과 발표 (네이버 포스트 ─ 하입비스트 ─ 스포츠)]]></title>
