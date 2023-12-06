@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Dec 2023 03:14:43 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Dec 2023 09:13:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -648,6 +648,14 @@
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTEyMjFfMTk4/MDAxNjQwMDc2NTg5NjY3.HeilVuwzJFbQeIq4k20VNvbJXrKkhNm8Gkhq0rVGVTUg.GwJ7BOjcfkJNogqUPfRtC00jm7lEJX8iMx3t4m2rcdQg.JPEG/Igi9Fb838mfBVpu2C_4oEitYAAXo.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[올 한해 위키피디아에서 가장 많이 검색된 항목은? (네이버 포스트 ─ 하입비스트 ─ 전자)]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=36998142&amp;memberNo=37600247&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=36998142&amp;memberNo=37600247&amp;navigationType=push</guid>
+            <pubDate>Wed, 06 Dec 2023 09:12:59 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzEyMDZfMjIx/MDAxNzAxODUyMjY1NjUx.hYku-wsJv2ISm6tx6VPYyZ30BuOkHoYN3_b9KxxyM6Ig.NJi4_UTL6jFfD-DNGEN39nNGy3GQ5Lbbl30eduh40hsg.JPEG/Iw6VHTSXGz3ts4PPssLixKIpxMpA.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[아마존, 스페이스X와 협력해 카이퍼 프로젝트 수행한다 (네이버 포스트 ─ 하입비스트 ─ 전자)]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=36986019&amp;memberNo=37600247&amp;navigationType=push</link>
             <guid>https://post.naver.com/viewer/postView.naver?volumeNo=36986019&amp;memberNo=37600247&amp;navigationType=push</guid>
@@ -800,12 +808,12 @@
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTA0MjhfNjAg/MDAxNjE5NjAxMTkxNjA2.Rxqnzkejl280u7MUZvO0i7wmFlcKEVqreB_a4Jb5Oa8g.bLywE5uc11erlBP8DI8F9cE5m8eBbU8AS4Bp_bigm7gg.JPEG/I8DHD82lVieZBqcJS_zi7qhZVT00.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[클럽하우스 창업자가 직접 언급한 안드로이드 버전 예상 출시일은? (네이버 포스트 ─ 하입비스트 ─ 전자)]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=31019749&amp;memberNo=37600247&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=31019749&amp;memberNo=37600247&amp;navigationType=push</guid>
-            <pubDate>Thu, 17 Nov 2022 03:42:08 GMT</pubDate>
+            <title><![CDATA[2023년 대한민국에서 가장 많이 팔린 차는? (네이버 포스트 ─ 하입비스트 ─ 자동차)]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=36998128&amp;memberNo=37600247&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=36998128&amp;memberNo=37600247&amp;navigationType=push</guid>
+            <pubDate>Wed, 06 Dec 2023 09:13:04 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTAzMjNfMjQ0/MDAxNjE2NDg2ODE3NTA0.3uVvFpUOIXCISQ6pAtEAX0iiBMlmouvw_GllGXSUpFkg.untyeycJoFxZhEjz3ya9RlwqBtT2cpJdMJ55Yrzw7zQg.JPEG/Imh-IZC1IqUlrdKuaQSj1EHT-gy4.jpg?type=fb500_500" length="0" type="image/jpg"/>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzEyMDZfNTMg/MDAxNzAxODUyMTQxNDI2.SkiMpfAqZLDN9D4eFnEWrpz0qBuaboZc_NbMq2rAAuwg._kFLQI4joM-HyD0GT6iyCJG5FCVTcFJrOETiDz4X0Zgg.JPEG/I7nvjUcNZq0Vhm2ABTcyfuxXyUvo.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[테슬라 사이버트럭을 오프로드용으로 튜닝할 수 있다 (네이버 포스트 ─ 하입비스트 ─ 자동차)]]></title>
@@ -958,14 +966,6 @@
             <pubDate>Thu, 17 Nov 2022 03:42:15 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjA4MDlfODEg/MDAxNjYwMDE1ODE5MDQ5.EzV2yQ52GDz_qx_PUvQm4bLjf5KvnqAnOplh1S7RKAkg.Fm6bvtycUcWTzhIaYvXiSqHGKJ5QgrDUaz4lRDFK2xog.JPEG/Ihzg8sS54Z5PepuMsHPZbUFaiftU.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[DRIVERS: 허재영 & 1987 메르세데스-벤츠 560 SL (네이버 포스트 ─ 하입비스트 ─ 자동차)]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=34260441&amp;memberNo=37600247&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=34260441&amp;memberNo=37600247&amp;navigationType=push</guid>
-            <pubDate>Thu, 17 Nov 2022 03:42:15 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA4MDVfMTIw/MDAxNjU5Njg1MjU2OTYy.1NjAh7OrjOGpz8kV_eexgZFzZayG6JcyKRHQxoGD4IIg.bADfc8PzUJTqvnFx2H3128Zt8AXovu_OfGeH8dK8hfIg.JPEG/IemacOf7qErw2m41TaGmEHp2zj_c.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[제임스 카메론, ‘아바타 3’ 업데이트 발표 (네이버 포스트 ─ 하입비스트 ─ 엔터테인먼트)]]></title>
