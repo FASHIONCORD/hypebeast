@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 하입비스트 ─ 음악</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 01 Apr 2024 09:15:04 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Apr 2024 15:13:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[마빈 게이의 미공개 음원 66여 곡이 담긴 카세트테이프 컬렉션이 발견됐다]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=37577966&amp;memberNo=37600247&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=37577966&amp;memberNo=37600247&amp;navigationType=push</guid>
+            <pubDate>Mon, 01 Apr 2024 15:12:46 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyNDA0MDFfODQg/MDAxNzExOTcxNDA4OTgy.Fx0g87PBxw5BA6_cNuLJnOLl7BNISaHKfTzATsKVYOcg.97cIMKAHy74-eE8uGfFMQQzl1hf0ly8avjUJsMXZubQg.PNG/IQLa-IEpFzbfDubFVs8JqN444PaQ.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[베를린의 테크노 음악이 유네스코 무형문화유산으로 지정됐다]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=37488495&amp;memberNo=37600247&amp;navigationType=push</link>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 02 Mar 2023 09:14:53 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzAzMDJfNTEg/MDAxNjc3NzQzODY4MjAy.zJN_QKl7MyXng4bg7v_X3nw3SXLPphf5v_koCOi5hgcg.vWCTIPG7pfyTrM6jnuvuBBsYAePz5gpRgEeK9Gl13WIg.JPEG/Iv1QEHbjrWD26Bo30Suvvc_V49zA.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[드릴 뮤직은 한국에서 앞으로도 유행할까?]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=35356769&amp;memberNo=37600247&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=35356769&amp;memberNo=37600247&amp;navigationType=push</guid>
-            <pubDate>Mon, 06 Feb 2023 15:19:03 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMzAyMDZfMjE4/MDAxNjc1NjU1NzU1MDA4.jH1fBet_iQTORj9_OcS0qJvRsOYpAKPIzr8ETX4UshUg.sJZaNypHsahrezNFqcQeHNjUPCuEDs-kufk6akPDecog.JPEG/Ikd3AlWGikwk1W4V7CjAe9pijmV8.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
