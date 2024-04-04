@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 하입비스트 ─ 엔터테인먼트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 04 Apr 2024 09:13:55 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Apr 2024 15:13:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[워너 브라더스, ‘매트릭스 5’ 제작한다]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=37596189&amp;memberNo=37600247&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=37596189&amp;memberNo=37600247&amp;navigationType=push</guid>
+            <pubDate>Thu, 04 Apr 2024 15:13:09 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyNDA0MDRfMzAg/MDAxNzEyMjI4NTYwOTM3.jDZLUYBbhk1pzqqag4eCBNibEaxDnZEWAxchbCiEzPEg.xVaf7ILDY_8BIMuGRh7vcjwiypWB1BbQLR7AF12ZKOkg.PNG/ICMdWvfm8aY_2yjcTguVmM8XbAms.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[빈센트 반 고흐의 이름을 딴 도마뱀이 공개됐다]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=37590121&amp;memberNo=37600247&amp;navigationType=push</link>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 30 Jan 2024 15:13:16 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyNDAxMzBfMTY5/MDAxNzA2NjI0MTIyNjA1.IFsTKaKzZczMs5Rt1MBHr_kJfgG1ouY36N_RV_FxUdog.MtTjbUXnnXJ-0giJLSkgOrDQfxSRKpNMgWuiWJXGCk4g.JPEG/IwMaFI9nqxrabpulz5ZynDs1G9SA.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한국의 성형외과 의원 의사 수가 최근 10년 사이 76% 증가했다. 피부과 의원 의사 수도]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=37262885&amp;memberNo=37600247&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=37262885&amp;memberNo=37600247&amp;navigationType=push</guid>
-            <pubDate>Mon, 29 Jan 2024 15:12:28 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyNDAxMjlfMTQ1/MDAxNzA2NTI3MjEwOTA5.a3BwpF4f5mu6yY9-FfraF0-Y-RQtFk0366o4J_OJY7gg.py7ltIdqQdtYErkYeOWHinHnVEbFquH61DinwJbIobwg.JPEG/IADGMBl1ySQ9UnTr6qSmra9fOAlA.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
