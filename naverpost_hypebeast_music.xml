@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 하입비스트 ─ 음악</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 08 Apr 2024 09:14:42 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Apr 2024 15:13:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[리바이스, 비욘세와 포스트 말론의 협업 트랙으로 주가 20% 폭등]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=37614532&amp;memberNo=37600247&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=37614532&amp;memberNo=37600247&amp;navigationType=push</guid>
+            <pubDate>Mon, 08 Apr 2024 15:12:04 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyNDA0MDhfMyAg/MDAxNzEyNTcyMDQ2MTc0.qQIhRRnH_IrFg_pZVX1934l1RilgTX35qoRPQk_CPwgg.orQV4f3mb_6ajph04255H-vtrvTAkX6oAi0v73TKkb8g.PNG/Ii4JOMfLn_j1A3BMegKsgfIreTb8.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[마빈 게이의 미공개 음원 66여 곡이 담긴 카세트테이프 컬렉션이 발견됐다]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=37577966&amp;memberNo=37600247&amp;navigationType=push</link>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 14 Mar 2023 09:15:54 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzAzMTRfMjIg/MDAxNjc4NzcyOTAwMDQ2.R_f231-CmPm5Q7hLPQlbSzcb5tUQ3I2A5KaP2Jrnoi4g.c8evrpz6JjxoSieTCjHX-zKJS_8LfQcvstSERGHgFwgg.JPEG/ImyPwVBoamHoMgnLEV_D7gVQQRJE.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[카모 인터뷰: 표적 안에서 살아남기 ‘Pressure Makes Diamonds’]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=35560039&amp;memberNo=37600247&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=35560039&amp;memberNo=37600247&amp;navigationType=push</guid>
-            <pubDate>Thu, 02 Mar 2023 09:14:53 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMzAzMDJfNTEg/MDAxNjc3NzQzODY4MjAy.zJN_QKl7MyXng4bg7v_X3nw3SXLPphf5v_koCOi5hgcg.vWCTIPG7pfyTrM6jnuvuBBsYAePz5gpRgEeK9Gl13WIg.JPEG/Iv1QEHbjrWD26Bo30Suvvc_V49zA.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

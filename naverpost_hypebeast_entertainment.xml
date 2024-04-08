@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 하입비스트 ─ 엔터테인먼트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 08 Apr 2024 09:14:42 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Apr 2024 15:13:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[지난 10년간 노래방에서 가장 많이 불린 노래는?]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=37614525&amp;memberNo=37600247&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=37614525&amp;memberNo=37600247&amp;navigationType=push</guid>
+            <pubDate>Mon, 08 Apr 2024 15:12:33 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyNDA0MDhfMjE2/MDAxNzEyNTcxOTcyNDk3.YJ7IumrCYnWIWMQ06o2dZjRWWchKfMGwNfEaHSxMdJ0g.U5gV9txiCsHRV-cxmuR3wRsp8m2k8Vor2JfViAjifX0g.PNG/IHcjp6466VuKMArERKmDtCkUk97o.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[워너 브라더스, ‘매트릭스 5’ 제작한다]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=37596189&amp;memberNo=37600247&amp;navigationType=push</link>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 01 Feb 2024 15:12:05 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyNDAyMDFfMTMg/MDAxNzA2Nzg3MzEyMzg5.IpAChjnWY17J6grE0uJxgUlLiIWPMibWc9rSL6ntQ5Yg.RyeWNG-yOoOcCm3LSOvghAyOqw-K9R4Gmsh23pzslmcg.JPEG/IRExXe6SokVqnVmuuQzX3x8p1riI.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘데드풀 3’의 시놉시스가 공개됐다]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=37269377&amp;memberNo=37600247&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=37269377&amp;memberNo=37600247&amp;navigationType=push</guid>
-            <pubDate>Tue, 30 Jan 2024 15:13:16 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyNDAxMzBfMTY5/MDAxNzA2NjI0MTIyNjA1.IFsTKaKzZczMs5Rt1MBHr_kJfgG1ouY36N_RV_FxUdog.MtTjbUXnnXJ-0giJLSkgOrDQfxSRKpNMgWuiWJXGCk4g.JPEG/IwMaFI9nqxrabpulz5ZynDs1G9SA.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
