@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 하입비스트 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 09 Apr 2024 09:14:08 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Apr 2024 15:14:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[불가리가 또다시 세상에서 가장 얇은 손목시계를 공개했다]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=37620657&amp;memberNo=37600247&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=37620657&amp;memberNo=37600247&amp;navigationType=push</guid>
+            <pubDate>Tue, 09 Apr 2024 15:13:12 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyNDA0MDlfMTg4/MDAxNzEyNjU5MDY1NTQ1.Kdhr_RRbkcRYar9Q_rInNe0ClE37H_a36edoooFLEmsg.rKDdBxSxTYhCNnIinQvXulrvzdWfBm8rqkg2cbHJ5oog.PNG/IH1hKuJNDU5we9U72g_pdhMxy6uY.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[에르메스, 버킨 백 판매 시스템에 대해 집단 소송 직면]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=37520289&amp;memberNo=37600247&amp;navigationType=push</link>
@@ -158,14 +166,6 @@
             <pubDate>Wed, 11 Oct 2023 15:12:09 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzA5MTFfMjU1/MDAxNjk0NDIyNTg3MDAx.njN8OuZcc_rvzXBK6d0TtcA8deRBm7ej6qn990E7BeYg.raKpmOPGgjIkWaOPMD4ozS2D3liP8CWytGxs-0le9qog.JPEG/IELEryAGh-gtMUtsKWBurIcHzv9c.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뉴진스 x 리바이스, 2023 FW 캠페인 공개]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=36559392&amp;memberNo=37600247&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=36559392&amp;memberNo=37600247&amp;navigationType=push</guid>
-            <pubDate>Wed, 11 Oct 2023 15:12:09 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA5MTFfMTAg/MDAxNjk0NDIyMDYwNjUx.LNARuRi7sqG-YSaNlYwlDUvyddMRe1aaUH8kV6vTsNkg.2ElyM9SeHmaVPSlBCqeMGYllESrAMJBdMNZhJAazJ44g.JPEG/ITcf3lg3yI85ddrHvi7dqDwlMRrI.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
