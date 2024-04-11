@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 하입비스트 ─ 엔터테인먼트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 11 Apr 2024 09:14:24 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Apr 2024 15:14:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[로버트 다우니 주니어가 MCU 복귀 루머에 관해 입을 열었다]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=37629697&amp;memberNo=37600247&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=37629697&amp;memberNo=37600247&amp;navigationType=push</guid>
+            <pubDate>Thu, 11 Apr 2024 15:13:48 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyNDA0MTFfNTIg/MDAxNzEyODMwODI1OTI3.rbmfjcGUJi3dfkQtPIcXzVJtsqMTZSdBRc5-xfnOPSEg.yDxPnUpWk344US8uzJbDt3ucwnyvbsmnapH3-gOmbfwg.PNG/Ijaq5vYl6psTH5obSx77r8tA72W8.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[지난 10년간 노래방에서 가장 많이 불린 노래는?]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=37614525&amp;memberNo=37600247&amp;navigationType=push</link>
@@ -158,14 +166,6 @@
             <pubDate>Fri, 02 Feb 2024 15:13:35 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyNDAyMDJfMjQ4/MDAxNzA2ODc1NTIxNDg1.Fj7UkWEjDttghUg-3n5lgb5aS_HYJ0Y_ANUf9M1BvWMg.ASFv_iKP-5dBDZf-NTzmTqW496J5Ar-3szqZqhL3Lpsg.JPEG/IaDdyaCtCfp9-XenSrGmiYkJpTcE.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘마녀 배달부 키키’ 속 요리 레시피를 다룬 레시피북이 발간된다]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=37280416&amp;memberNo=37600247&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=37280416&amp;memberNo=37600247&amp;navigationType=push</guid>
-            <pubDate>Thu, 01 Feb 2024 15:12:05 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyNDAyMDFfMTMg/MDAxNzA2Nzg3MzEyMzg5.IpAChjnWY17J6grE0uJxgUlLiIWPMibWc9rSL6ntQ5Yg.RyeWNG-yOoOcCm3LSOvghAyOqw-K9R4Gmsh23pzslmcg.JPEG/IRExXe6SokVqnVmuuQzX3x8p1riI.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
