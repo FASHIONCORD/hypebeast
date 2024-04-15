@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 하입비스트 ─ 엔터테인먼트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 15 Apr 2024 09:13:15 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 Apr 2024 15:14:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[담배 10개비 이상 피우는 남성, 대머리 될 확률 두 배 더 높다]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=37650626&amp;memberNo=37600247&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=37650626&amp;memberNo=37600247&amp;navigationType=push</guid>
+            <pubDate>Mon, 15 Apr 2024 15:13:56 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyNDA0MTVfMjA3/MDAxNzEzMTgyNjU0ODYx.t9pLC1z8-9NIumcn9sx2MTab-G2U92lVWrC_X5d7CDsg.P-zRa8-I-16EVAY7-8ipAz8xk_C-X7OU6kf2iIbfWg0g.PNG/I6-NbdE67pdo1ZQAwp1iuIRlnjyI.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[로버트 다우니 주니어가 MCU 복귀 루머에 관해 입을 열었다]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=37629697&amp;memberNo=37600247&amp;navigationType=push</link>
@@ -158,14 +166,6 @@
             <pubDate>Mon, 05 Feb 2024 15:14:46 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyNDAyMDVfNTcg/MDAxNzA3MTM3Mjk3NDgw.CSsNhUHnuSMdxVC1fBZHZKshr6cIpTtiukSbVrbzJ00g.7Hc46Z72xjh-hO-asRAhdbJJA6xzAlEUkQzA5NMVbmIg.JPEG/IOcOcSXrsFzpuLWInEYeUHfFTr2I.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[크리스토퍼 놀란의 촬영장에 화장실이 없는 이유는?]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=37285773&amp;memberNo=37600247&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=37285773&amp;memberNo=37600247&amp;navigationType=push</guid>
-            <pubDate>Fri, 02 Feb 2024 15:13:35 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyNDAyMDJfMjQ4/MDAxNzA2ODc1NTIxNDg1.Fj7UkWEjDttghUg-3n5lgb5aS_HYJ0Y_ANUf9M1BvWMg.ASFv_iKP-5dBDZf-NTzmTqW496J5Ar-3szqZqhL3Lpsg.JPEG/IaDdyaCtCfp9-XenSrGmiYkJpTcE.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
