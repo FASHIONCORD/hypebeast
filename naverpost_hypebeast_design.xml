@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 하입비스트 ─ 디자인</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 18 Apr 2024 09:14:22 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Apr 2024 15:14:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[포르쉐와 비트라의 협업 체어가 공개됐다]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=37670045&amp;memberNo=37600247&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=37670045&amp;memberNo=37600247&amp;navigationType=push</guid>
+            <pubDate>Thu, 18 Apr 2024 15:13:48 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyNDA0MThfNzgg/MDAxNzEzNDM2NjgyOTcw.jS4JuAndQX6LxdlPNQWAlW-oszjDlY6X2F-O7JdM_Xog.JokryYGdJoGzJMSlOyW_onYphaTGizKwFIyhx0QsY4Yg.PNG/IzogbR2m_AD0MlUd9R7SGKAiu250.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[한국인 약 1300명이 답한 ‘집에 꼭 갖고 싶은 공간’ 1위는?]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=37558337&amp;memberNo=37600247&amp;navigationType=push</link>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 25 Aug 2022 12:19:36 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMDEyMDhfMTQg/MDAxNjA3NDE4NTg2NTI0.yiUNJmat9YZhU_ToAeCy0mbTgu3ne1iO19pvNUIEc9gg.KBOI7UZEuUJv9kgw3OOiG8ryk6kp4dg_JtMI-LGW7jQg.JPEG/IRIrsz53QvqFKxP_m6gefWt96B_w.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[수능 시계 대체 가능한 '강철의 연금술사' 은시계가 순식간에 품절됐다]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=30165242&amp;memberNo=37600247&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=30165242&amp;memberNo=37600247&amp;navigationType=push</guid>
-            <pubDate>Thu, 25 Aug 2022 12:19:36 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMDEyMDdfMiAg/MDAxNjA3MzM1MjQzODYx.-kopAuJxGI53fi6dfVJFTMyi3-iLGPV9UsxSUo945_8g.WAXCvd8rgy0z5C2QOzfRv4xvrjWrvU4R1XQ8GlqKcT8g.JPEG/IW95qS2A076XuQo6oiPQml2ea9Ew.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
