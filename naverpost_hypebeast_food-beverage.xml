@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 하입비스트 ─ 음식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 23 Apr 2024 09:13:52 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Apr 2024 15:13:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뉴욕 한복판에 한국식 기사식당 ‘Kisa’가 오픈했다]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=37698769&amp;memberNo=37600247&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=37698769&amp;memberNo=37600247&amp;navigationType=push</guid>
+            <pubDate>Tue, 23 Apr 2024 15:13:34 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyNDA0MjNfOCAg/MDAxNzEzODY4NDkwMzIx.MypAyxIR4HnKXQH22tbxJ819QzEmTXi8BxdsUFfF3gIg.pjdzdBuHNg_FJn-trDIuIqRjXEwXLl26R5E9t9BEqwcg.PNG/IFo2QGmn2LXhZdDWW84UgzFpc3Ho.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘세상에서 가장 맛있는 만두’에 김치 만두가 선정됐다]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=37577972&amp;memberNo=37600247&amp;navigationType=push</link>
@@ -158,14 +166,6 @@
             <pubDate>Mon, 22 May 2023 15:13:56 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzA1MjJfNzkg/MDAxNjg0NzQ5MTQyOTY1.2C7Aak0GnFYJJPJYvWry7en9LeMfWE5MIPEJbiJy3yUg.5y_LyCvAUSZqWhhXTm_JRQO4gugwVDxjbVseqpxQw7Eg.JPEG/III2zN4y5WS2gDGN4cwfiykS5ohI.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[HOW TO: 광장시장에서 만난, 잡채가 들어간 블랙 전기구이 통닭]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=35904589&amp;memberNo=37600247&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=35904589&amp;memberNo=37600247&amp;navigationType=push</guid>
-            <pubDate>Mon, 08 May 2023 09:13:53 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA1MDhfMTkw/MDAxNjgzNTM1MjM0ODUy.1r73FitiEiUIS2tPTs-PxFAz2CwKWUeMgfxlv-JoDKgg.OIuLOsMQlbAAwVyjb7LJBe62OfG6G-XmNPoL9LKQuWwg.JPEG/IbMLfdWGIx-j1l_DRoZHbvqP_0aI.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
