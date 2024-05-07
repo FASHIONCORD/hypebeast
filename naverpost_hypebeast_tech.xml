@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 하입비스트 ─ 전자</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 07 May 2024 03:15:35 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 May 2024 09:15:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[아이폰 17, 6.55인치 ‘슬림’ 모델 추가된다?]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=37773600&amp;memberNo=37600247&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=37773600&amp;memberNo=37600247&amp;navigationType=push</guid>
+            <pubDate>Tue, 07 May 2024 09:15:05 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyNDA1MDdfMTY0/MDAxNzE1MDcwOTUyMjU1.WrVsNpzFJzFicZINkDIhMRx1YSbRWhr1ZtiDh0UQW-Eg.EzvdTjW_SbL1tEM_27qaUfw72NFvnu7YPIp33dmp6lkg.PNG/IBBApBb_Pkro6edWkTGhZCJT-gQ4.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[소니, 목에 거는 에어컨 ‘레온 포켓 5’ 출시]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=37705527&amp;memberNo=37600247&amp;navigationType=push</link>
@@ -158,14 +166,6 @@
             <pubDate>Fri, 22 Dec 2023 15:12:58 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzEyMjJfMTg2/MDAxNzAzMjM2NTg5NDk4.yOBP-Ts1Xctp2mU6pRba04fumPKhHmJlkLhyHANi3Qog.jTRhmZ5KoAz8QtIWB3GHmo-_zPLeszG0O_RPtHOjnuIg.JPEG/IBZDNW3YG8BzY9Av2FSSGG7CmcB8.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2023년 한국인이 가장 많이 사용한 앱은?]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=37074734&amp;memberNo=37600247&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=37074734&amp;memberNo=37600247&amp;navigationType=push</guid>
-            <pubDate>Thu, 21 Dec 2023 15:12:51 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMzEyMjFfMTgy/MDAxNzAzMTUyMzc3Njg3.qXFwhCgDz4Cu83utYh54yanCwD4tGGD1c4rHf-OB7-Qg.Fgc8Fdscok3Yzpl4jqc1CPwuw3fUuHpo5IoBfV2Pyjgg.JPEG/I2di3HQpyb1IQ4OB_o1xNQIo1l7w.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
