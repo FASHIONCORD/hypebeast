@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 하입비스트 ─ 엔터테인먼트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 May 2024 03:15:26 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 May 2024 09:16:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[미야자키 하야오 “애니메이션의 황금시대는 끝났다”]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=37868085&amp;memberNo=37600247&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=37868085&amp;memberNo=37600247&amp;navigationType=push</guid>
+            <pubDate>Thu, 23 May 2024 09:15:35 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyNDA1MjNfMjM1/MDAxNzE2NDUxNjgwNDc0.4MEWWizW93WiUfCXy7w2XWWXo9EL7gGgJY3hIjFOVu8g.WKCavHb0jDKTXb6QWH6o8rqaUV4fuiWDSb5Mmu6B3W4g.JPEG/IR0oxdjRN8IXqh2mjU3nCF7hdQEo.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘베놈 3: 더 라스트 댄스’가 ‘베놈’ 시리즈의 마지막 영화가 될 예정이다]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=37848139&amp;memberNo=37600247&amp;navigationType=push</link>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 08 Feb 2024 15:13:03 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyNDAyMDhfOTYg/MDAxNzA3MzkzNjQ4OTcx.EzdPxZN1K8E7plw4bR1NYarxqZX-UBiC3g-KPxMYGU0g.oY2YNq4aTBDtaVuU0VOquADpZIcmLZGuTc_nNpwGxrog.JPEG/I_s1eonz9jNBGGPjHWC7O-UHIt_c.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[빙산에서 낮잠 자는 북극곰 사진이 ‘올해의 야생 사진’으로 선정됐다]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=37314190&amp;memberNo=37600247&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=37314190&amp;memberNo=37600247&amp;navigationType=push</guid>
-            <pubDate>Thu, 08 Feb 2024 15:13:03 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyNDAyMDhfMTg5/MDAxNzA3MzkyODYzNTcz.KbJGxuD4xK0ckIf_qIe4eEE4kYys17RzIbdAlz7-8-Eg.L8ZNSjTefWwtE2y5GQRaWEbt2EGiKebjLXn--WX1GDkg.JPEG/IG08PwIJQUAtA-N4mH2nQB0nKApY.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
