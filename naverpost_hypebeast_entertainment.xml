@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 하입비스트 ─ 엔터테인먼트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 12 Jun 2024 09:15:32 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Jun 2024 15:14:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[한국에서 가장 살기 좋은 도시 1위는?]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=37983862&amp;memberNo=37600247&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=37983862&amp;memberNo=37600247&amp;navigationType=push</guid>
+            <pubDate>Wed, 12 Jun 2024 15:13:37 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyNDA2MTJfNTEg/MDAxNzE4MTg2MDExMDU3.yL59BZ5LbIOi9C_6R_vq9OE-mgaWSyi2rFIAp37gJmsg.dAxqzhLbgLaH0eb-h3e4c9NX0xce_d0XSbQV-ubMiCIg.PNG/In1StgIvyQkjjRWrFEo8rPGJoW40.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[조지 밀러 감독이 봉준호의 영화 편집 방식을 차용했다고 밝혔다]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=37970514&amp;memberNo=37600247&amp;navigationType=push</link>
@@ -158,14 +166,6 @@
             <pubDate>Fri, 16 Feb 2024 15:13:51 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyNDAyMTZfMjM3/MDAxNzA4MDgyNTIzMjkz.9t2fPHesIoMGB4gK0DWRXP9Oyvg0rtgKI2PX-Y6ie2Eg.63a1GLG9fLygzmOTYsrhuJMdNWNCWqFoIojNBegG7qYg.JPEG/IxIyneyWZJajp4qElTToMcoRjUhc.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘혹성탈출: 새로운 시대’ 슈퍼볼 예고편 공개]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=37336877&amp;memberNo=37600247&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=37336877&amp;memberNo=37600247&amp;navigationType=push</guid>
-            <pubDate>Wed, 14 Feb 2024 15:12:16 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyNDAyMTRfMTU5/MDAxNzA3OTE0NDkzOTU3.5aS2j18e_tARK8SC38cZhCwITcdtoM-KwwpkiEFF0Bwg.Uys5XTDx_rUdOxwawBl91rpROI2FnKZOXBIHUOS_a8Ug.JPEG/IFEUGhLYDDe3eYhbsGBMpT5NHWpI.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
