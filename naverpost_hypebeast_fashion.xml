@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 하입비스트 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 01 Jul 2024 03:17:11 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Jul 2024 09:19:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[포르쉐 디자인, P‘8952 아이코닉 커브드 선글라스 출시]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=38088595&amp;memberNo=37600247&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=38088595&amp;memberNo=37600247&amp;navigationType=push</guid>
+            <pubDate>Mon, 01 Jul 2024 09:17:57 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyNDA3MDFfMTIw/MDAxNzE5ODE0NDkzMzMz.ISzxS-Av2rpz70Ah-uIJCd4eAOG9jAPfpASIxIbBTVsg.GyuuwkadCH3xyWNbtGEH1BbMSNVp9stPeJ6E2Myl0cQg.PNG/IkyaGZ_g5AKzhCCW_Gv9bNtfVr7g.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[카시나, 인하우스 브랜드 ‘애프터매스’ 런칭]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=37855082&amp;memberNo=37600247&amp;navigationType=push</link>
@@ -158,14 +166,6 @@
             <pubDate>Mon, 16 Oct 2023 15:13:18 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzEwMTZfMTEw/MDAxNjk3NDQ4MzEwNTgz.VUgbR0zycKqvLojyN49saib3Jr4gq1Smoh8gsnnxW7Ig.a2FhxMYhisZmh35xfmP7wS3_pJEqZLQAJSWOHTYi9XIg.JPEG/IHa44zQVNfZz2DkN_d5wltwZCuiA.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[티파니앤코가 인공 다이아몬드를 판매한다?]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=36719422&amp;memberNo=37600247&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=36719422&amp;memberNo=37600247&amp;navigationType=push</guid>
-            <pubDate>Fri, 13 Oct 2023 09:12:25 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMzEwMTNfMjAy/MDAxNjk3MTc3NTcwMTQ4.h_QtHbA-QlXL4mPmjhnzUbPwgAkXT2Z4p0taGISYVAIg.LuWHmm5CLLCom-nYBi1mWkQPgezRvUYgBJBHEu-ctiUg.JPEG/IWmb8xQ4o53dcaPEZg6xxYsyb0ag.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
