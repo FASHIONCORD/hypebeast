@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 하입비스트 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 09 Jul 2024 09:15:27 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Jul 2024 15:15:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[제이지가 화이트 파티에서 착용한 롤렉스가 공개됐다]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=38133404&amp;memberNo=37600247&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=38133404&amp;memberNo=37600247&amp;navigationType=push</guid>
+            <pubDate>Tue, 09 Jul 2024 15:14:05 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyNDA3MDlfNzQg/MDAxNzIwNTE4NzQwNzI3.Rn2IENWpm_VgNafP452dHJTZwCwXffyPWFL-vTSlr6Ag.S8k2YL5_HxCjb0B5wS6rbz-36LHkR971A8tOKgrTFbIg.PNG/IjuQhL84nDQkiMxtFo5emJqQfNgY.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[2024 올림픽 메달이 루이 비통 트레이에 담겨 전달된다]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=38109014&amp;memberNo=37600247&amp;navigationType=push</link>
@@ -158,14 +166,6 @@
             <pubDate>Wed, 29 Nov 2023 09:12:59 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzExMjlfMjY4/MDAxNzAxMjQ2Nzg2ODc5.9WrcsY7wT7qRBB86YHuwKFlAm3TCfL_plECt57Dq1y8g.ExXdiKhy8MRbDbW6DPUXvqSIKkbpU8eFA1ZvbOWEGNkg.JPEG/Isd7FQMZezysiuqIoIyzNfh-tMX8.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[개털이 캐시미어에 대한 지속 가능한 대체 소재로 부상했다]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=36847450&amp;memberNo=37600247&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=36847450&amp;memberNo=37600247&amp;navigationType=push</guid>
-            <pubDate>Tue, 07 Nov 2023 15:12:28 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMzExMDdfMjA3/MDAxNjk5MzQ4MzE0OTQ0.pcfzf6Nv_jLM9o_85J7w1x3RyOnYqTbDrXKwTQz3P-Eg.JgfWHKE7ZdlYOgDApFZ_2_nM2OgxNICtKOqUTAYfzwcg.JPEG/I-TGCR0fiRnPEwK6w6mKxVyRYJaI.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
