@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 하입비스트 ─ 전자</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 29 Jul 2024 09:16:59 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Jul 2024 15:15:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2024 한국 대학생이 가장 일하고 싶어하는 기업은?]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=38292644&amp;memberNo=37600247&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=38292644&amp;memberNo=37600247&amp;navigationType=push</guid>
+            <pubDate>Mon, 29 Jul 2024 15:15:02 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyNDA3MjlfMjgx/MDAxNzIyMjYxMzUwMTA5.edKlzwOxLfg3gf897hSEulwVvGSR2dkiW8PuGjDDhbgg.XaDVo2Rz_VDZFGe6zJpUl-21eiStBho2nsw2uyuVgiEg.PNG/IOk7N45yJXqlbPTtKeW4LcphaWMs.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[스마트폰을 DSLR로 변환해주는 액세서리, ‘스위치렌즈’ 공개]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=38160922&amp;memberNo=37600247&amp;navigationType=push</link>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 18 Jan 2024 15:13:18 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyNDAxMThfNDIg/MDAxNzA1NTg1MjIwOTAx.dVWuqS4wMATVR1OF1KT6_0ZW9zA4mA3Yi-boxKEeZhAg.FFElfuh-NYKVvES_EwffQ1fEFuyPHXUB7wnzE8QTaLwg.JPEG/IgauCEW-sd-QOhoOWjQrAIq8phwk.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[애플, 애플 워치에서 혈중 산소 농도 측정 기능 삭제한다]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=37200021&amp;memberNo=37600247&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=37200021&amp;memberNo=37600247&amp;navigationType=push</guid>
-            <pubDate>Tue, 16 Jan 2024 15:13:54 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyNDAxMTZfMTEg/MDAxNzA1NDExNzg2MzU1.ZNH-M5cpXa07htB8GQq4y3RG8JkwqUapLi4PEBgROkIg.HaBs6yPmZzYcyw2Bf4cTtAIEwO3KdwxUTNuokGuUeHEg.JPEG/IO7eZH68IY1oZbtxbxIKqgfTPmuM.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
