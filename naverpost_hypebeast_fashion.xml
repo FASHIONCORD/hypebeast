@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 하입비스트 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 01 Aug 2024 09:14:45 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Aug 2024 15:16:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[스티브 잡스가 ‘IBM에 손가락 욕을 날린 재킷'이 경매에 올랐다]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=38336100&amp;memberNo=37600247&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=38336100&amp;memberNo=37600247&amp;navigationType=push</guid>
+            <pubDate>Thu, 01 Aug 2024 15:15:03 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyNDA4MDFfNSAg/MDAxNzIyNTE1NTQ4MzM5.z5g7s5vTm0NIMtHFMx3ahi7HjTqY1kjXEqLhovJazz0g.4t__fqOr77o3UF1MzM6u08QcqUJ31hccxW9QR5ayIuUg.PNG/I0fEG3lcGMspqGgNAYusdMRx9h48.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[칸예 웨스트가 은퇴 의사를 밝혔다?]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=38137405&amp;memberNo=37600247&amp;navigationType=push</link>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 07 Dec 2023 09:12:33 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzEyMDdfMTkw/MDAxNzAxOTM0ODcwMjEx.Qa6AEQDcSZ1-v7T-FEHDpeiZguaISVeHixxNHvhP1Jwg.cwgC0xTRgYJm5oYGxXQTTgw7mAodDfOojTpyp_lQLhcg.JPEG/IVEihhFZMKSkGwq1YVfUf7kLKji0.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[빈티지 롤렉스, 파텍 필립, 까르띠에 등 소더비 ‘임폴턴트 워치스’ 시계 목록 살펴보기]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=36991974&amp;memberNo=37600247&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=36991974&amp;memberNo=37600247&amp;navigationType=push</guid>
-            <pubDate>Tue, 05 Dec 2023 09:12:57 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMzEyMDVfMTI2/MDAxNzAxNzY1MzMyMzE1.tQ2J-Mmh7-rDfvElvl5LIkbzFNCLsFJbEdepB-BBaAog.WQqdVOTwUWuz--hF8jGpB2o5GZyxxC_N8NDjFMTJp7Qg.JPEG/IDiKGYgGn-EFt-SdDmI3zR9b6a3s.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
