@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 하입비스트 ─ 음식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 08 Aug 2024 09:15:52 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 08 Aug 2024 15:16:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[발렌타인 12년 위스키가 단종된다]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=38422539&amp;memberNo=37600247&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=38422539&amp;memberNo=37600247&amp;navigationType=push</guid>
+            <pubDate>Thu, 08 Aug 2024 15:15:55 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyNDA4MDhfMTgz/MDAxNzIzMTE2MTI0ODc2.xFDY1gaBugED_YUwG_OlBrktVYEqJPX3r1gMci6EhOYg.2663RVm_4g-YpFlxDTOWzgdJi1YrxInHm2856_p1fpQg.PNG/IOXLHLIQWWimkfr6K0eLKfnCepW4.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[게이머들을 위한 라면 ‘부스트 누들’이 출시된다]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=38242999&amp;memberNo=37600247&amp;navigationType=push</link>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 31 Aug 2023 09:13:30 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzA4MzFfNzEg/MDAxNjkzNDY4MTEwNzE5.lJX5rJeeRcxACYjn7ByLyTfRMj8HpFiffcAwUz7M0vQg.QYPB48LT8kYh7ozpXGzfuYiWAoezevhoOmjLD-AFlYog.JPEG/I9_EtCUgf8G3CR4fj6dm--1ricqA.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[발걸음을 돌리게 하는 심야 식당 7]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=36464870&amp;memberNo=37600247&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=36464870&amp;memberNo=37600247&amp;navigationType=push</guid>
-            <pubDate>Fri, 25 Aug 2023 09:12:19 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA4MjVfMjQy/MDAxNjkyOTQzNjczMTE1.xW_0X8XySo1B2HAHDb462yCAK_42MNWSn8mPTk3KvnQg.a9ecw4w9pTmFR5_3ICTMknnqvk5vk1Y9prV2BA_zYJ8g.JPEG/IcBn-tyXjHIz2qvZD8RorsB9cBhg.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
