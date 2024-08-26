@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 하입비스트 ─ 엔터테인먼트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 26 Aug 2024 03:19:05 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 26 Aug 2024 09:16:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[극장판 ‘주술회전: 회옥·옥절’ 총집편이 개봉된다]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=38704203&amp;memberNo=37600247&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=38704203&amp;memberNo=37600247&amp;navigationType=push</guid>
+            <pubDate>Mon, 26 Aug 2024 09:15:43 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyNDA4MjZfMTgx/MDAxNzI0NjYxMzQwMDc0.vH1It2ouyKTFzxZr16u0O8jxERJXLMsuBJZVg9RZ0zYg.iZlSsgBmyreSN20Xp1GoDWVQ8_mW36P562zHjuo_QeEg.PNG/IA-0Sv0ifsGMIgpafKB6lu5scD2E.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[칸예 웨스트, SNS에 자신이 등장한 파파라치 사진 무단 공유 혐의로 고소당했다]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=38497228&amp;memberNo=37600247&amp;navigationType=push</link>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 02 May 2024 15:13:58 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyNDA1MDJfODUg/MDAxNzE0NjQ1MTU3MTY0.brmoZkiUpoYC8LkGNwJBOT0k20gVj5M5uXE2x7y3CZYg.Is_CsTKAf4HbjpSZcq3rHSP4-oDICRCWE6ayND0FyFAg.PNG/Ip2Z9-QkNKj3xzuRghy0rWqioBB8.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[박찬욱 감독이 직접 ‘올드보이’ TV시리즈로 제작한다]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=37670051&amp;memberNo=37600247&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=37670051&amp;memberNo=37600247&amp;navigationType=push</guid>
-            <pubDate>Thu, 18 Apr 2024 15:13:45 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyNDA0MThfMTIy/MDAxNzEzNDM2ODAwODEw.iJh2gp7_hwFmrSHviP8bwjPVj0rU22Rq6K7rprOwdIgg.F-HVVZoCKmtRFjZn66DHpriUOdwvs3lasrUztgaVCjkg.PNG/I7ENY4BM6muAZxV9Wg7sMGC_N5Go.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
