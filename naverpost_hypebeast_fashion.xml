@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 하입비스트 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 04 Sep 2024 09:16:49 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 04 Sep 2024 15:17:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[콘스탄틴 샤이킨, 세상에서 가장 얇은 ‘띵킹’ 프로토타입 시계 공개]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=38895793&amp;memberNo=37600247&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=38895793&amp;memberNo=37600247&amp;navigationType=push</guid>
+            <pubDate>Wed, 04 Sep 2024 15:15:57 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyNDA5MDRfMjg0/MDAxNzI1NDUxNzE1MTI1.HuVGQBgTalRoE2USc7DeHXVDVeWZScHY6er6BF1PAYYg.MwTNkZ_XulcVtrqAd4thX85K8YYo0u2fm2irMdQU5N8g.PNG/IUUHUzdAbnavBQ1HI8hReHK_fTkU.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[스티브 잡스가 ‘IBM에 손가락 욕을 날린 재킷'이 경매에 올랐다]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=38336100&amp;memberNo=37600247&amp;navigationType=push</link>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 19 Dec 2023 09:13:02 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzEyMTlfMjk2/MDAxNzAyOTc0MzU2MDc1.s5-jj0rOHRB4BAVq-tiHvvbXPG25R77jOmUNXIVLwikg.KbpqyIs5JA4c9NQosMS8iiVcHeTfXsE1G6omfF2keDsg.JPEG/IXnNWCsKsNFYr5p7CzfNIgBtnxto.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[프랭크 게리가 디자인한 루이 비통 핸드백 컬렉션 살펴보기]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=37003748&amp;memberNo=37600247&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=37003748&amp;memberNo=37600247&amp;navigationType=push</guid>
-            <pubDate>Thu, 07 Dec 2023 09:12:33 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMzEyMDdfMTkw/MDAxNzAxOTM0ODcwMjEx.Qa6AEQDcSZ1-v7T-FEHDpeiZguaISVeHixxNHvhP1Jwg.cwgC0xTRgYJm5oYGxXQTTgw7mAodDfOojTpyp_lQLhcg.JPEG/IVEihhFZMKSkGwq1YVfUf7kLKji0.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
