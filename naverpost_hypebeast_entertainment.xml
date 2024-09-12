@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 하입비스트 ─ 엔터테인먼트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 12 Sep 2024 09:16:20 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 Sep 2024 15:16:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘하울의 움직이는 성’ 20주년 기념 포스터 공개]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=39056003&amp;memberNo=37600247&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=39056003&amp;memberNo=37600247&amp;navigationType=push</guid>
+            <pubDate>Thu, 12 Sep 2024 15:15:48 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyNDA5MTJfMjMg/MDAxNzI2MTM1MDIyOTEz.Q1mVyHbON_Kk_U7anRGx9QCfGvEXmo4eb7SA5efniCEg.I2mbQ24rwB2rUcHeL2yigY9jOXd7GzOim3fSwUGROjQg.PNG/Ihf0BEyLuV6A-6Tp5BwR0qR9I7bw.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[극장판 ‘주술회전: 회옥·옥절’ 총집편이 개봉된다]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=38704203&amp;memberNo=37600247&amp;navigationType=push</link>
@@ -158,14 +166,6 @@
             <pubDate>Mon, 20 May 2024 09:17:05 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyNDA1MjBfMTM1/MDAxNzE2MTk0NjU4MDI3.zEHmjkc2m3lFMhvZz1_3xtFCBJpGdSczudaX-1LB0B4g.VvqsKjC7fPFUImR4CIZWKw0i8eA3MYN_HtRkSKbIFpsg.PNG/In12u_uymAyiYHPG3pmBptAirCtg.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[에어비엔비가 ‘업’에 나오는 집을 실제로 구현했다]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=37748391&amp;memberNo=37600247&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=37748391&amp;memberNo=37600247&amp;navigationType=push</guid>
-            <pubDate>Thu, 02 May 2024 15:13:58 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyNDA1MDJfODUg/MDAxNzE0NjQ1MTU3MTY0.brmoZkiUpoYC8LkGNwJBOT0k20gVj5M5uXE2x7y3CZYg.Is_CsTKAf4HbjpSZcq3rHSP4-oDICRCWE6ayND0FyFAg.PNG/Ip2Z9-QkNKj3xzuRghy0rWqioBB8.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
