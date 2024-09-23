@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 하입비스트 ─ 음식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 23 Sep 2024 09:19:37 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 Sep 2024 15:17:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[롯데리아, 오프라인 매장과 배달 서비스 메뉴 가격 분리한다]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=39218704&amp;memberNo=37600247&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=39218704&amp;memberNo=37600247&amp;navigationType=push</guid>
+            <pubDate>Mon, 23 Sep 2024 15:16:45 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyNDA5MjNfNzYg/MDAxNzI3MDg3NTY0ODE0.wYrbASTxOD4NNFv9E6ldEZr_KpsDN0OS0mQ8SGYEFFYg.SBqu5N8TMmwvr6y546EwKX_cQRt3G0CnpmcevWm_7F0g.PNG/IsKaGt_-L0mvch20pp2hozm6Jjrg.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘테이스트 아틀라스’ 선정 ‘세상에서 가장 맛있는 닭요리’ 1위에 오른 한국 음식은?]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=38993849&amp;memberNo=37600247&amp;navigationType=push</link>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 31 Oct 2023 09:13:43 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzEwMzFfMjEz/MDAxNjk4NzM5MDY4Mjc2.2Pxh5lT6CtpA4Y7fCn569-Up9ZE3EUybHiRLP2YhR1Yg.7VRyk95LhjDPU8D2RkwMNVk8nH3WSD59IOFHJlxzSeMg.JPEG/IHOXC2HyedGVXLN-5QRrgtZJ7hm0.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[미국인이 가장 싫어하는 음식은?]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=36498961&amp;memberNo=37600247&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=36498961&amp;memberNo=37600247&amp;navigationType=push</guid>
-            <pubDate>Thu, 31 Aug 2023 09:13:30 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA4MzFfMTA2/MDAxNjkzNDY4NjE2MjU1.9gJGxlK1Om9MvC0jefp9WTIMNRpZAkQ2MVcrKaqPjaMg.x5rvsBXdCeU-kXch1Aq-YfJE77V7cHo-WRoo0-HKazcg.JPEG/I_E5McJHCwnKsrq9870E87gSweYY.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
