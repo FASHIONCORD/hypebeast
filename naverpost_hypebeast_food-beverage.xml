@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 하입비스트 ─ 음식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 14 Oct 2024 03:25:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Oct 2024 09:18:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[맥도날드의 전 메뉴 개발 셰프가 빅맥 소스 레시피를 공개했다]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=39605671&amp;memberNo=37600247&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=39605671&amp;memberNo=37600247&amp;navigationType=push</guid>
+            <pubDate>Mon, 14 Oct 2024 09:18:21 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyNDEwMTRfOTUg/MDAxNzI4ODg5OTE4MzU1.BJ44_zvHyqyEoLJPKggb1uufEVQFqADSz43lcMjZrHMg.X4MIT_V7w5j9SK91sLH71Xx9UZ13OgK18ATqebcDY9og.PNG/Ix_HJ5rhMet4tOfcXBHwH4ISPJsg.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[롯데리아, 오프라인 매장과 배달 서비스 메뉴 가격 분리한다]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=39218704&amp;memberNo=37600247&amp;navigationType=push</link>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 12 Dec 2023 15:13:35 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzEyMTJfNjEg/MDAxNzAyMzczMjQxODYx.nIEA8uwK8toonE-CBD-vcauSuGcSLSBDtQKLE0btP-0g.J7jZl0B3EbajJpoGAJemMlQtxlRVrPw6axYqgTI3gP8g.JPEG/Ik549zLPRA9FyNwGBEM0qW0npi7M.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[알래스카의 대게 수십억 마리가 감소 중이다 이유가 뭘까?]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=36810823&amp;memberNo=37600247&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=36810823&amp;memberNo=37600247&amp;navigationType=push</guid>
-            <pubDate>Tue, 31 Oct 2023 09:13:43 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMzEwMzFfMjEz/MDAxNjk4NzM5MDY4Mjc2.2Pxh5lT6CtpA4Y7fCn569-Up9ZE3EUybHiRLP2YhR1Yg.7VRyk95LhjDPU8D2RkwMNVk8nH3WSD59IOFHJlxzSeMg.JPEG/IHOXC2HyedGVXLN-5QRrgtZJ7hm0.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
